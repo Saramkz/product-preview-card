@@ -10,7 +10,7 @@
   --Cream: hsl(30, 38%, 92%);
 }
 body{
-  background-color: bisque;
+  background-color: var(--Cream);
 }
 
 .Box-perfume{
