@@ -9,6 +9,9 @@
   --very-dark-cyan:hsl(159, 70%, 18%);
   --Cream: hsl(30, 38%, 92%);
 }
+body{
+  background-color: bisque;
+}
 
 .Box-perfume{
   height:450px ;
@@ -116,9 +119,6 @@ background-color:var(--very-dark-cyan);
   margin-right: 10px;
 }
 
-body{
-  background-color: bisque;
-}
 
 @media screen and (max-width:500px) {
 
